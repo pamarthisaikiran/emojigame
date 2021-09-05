@@ -1,0 +1,12 @@
+/* Write your code here. */
+.li {
+  background-color: #9796f0;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  border: 2px solid #ffffff30;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
